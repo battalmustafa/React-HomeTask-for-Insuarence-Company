@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Because of the fetching json link data is dead, any lists can be showed. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
